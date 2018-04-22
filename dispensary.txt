@@ -1,0 +1,4 @@
+coldaid 65.366 45 .
+crocin 32.366 40 .
+para 53.366 46 .
+Saridon 6.3002 49 .
